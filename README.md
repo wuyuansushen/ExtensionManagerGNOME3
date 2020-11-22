@@ -1,4 +1,4 @@
-# Gnome Extension Manager **Tweaks**
+# Gnome Extension Manager *Tweaks*
  
 ## 1.Search **Tweaks** in **software**
 
