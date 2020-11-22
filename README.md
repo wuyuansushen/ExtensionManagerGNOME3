@@ -19,7 +19,7 @@
 
  <img src="gnomeShellExtension.png" width="474.5" height="459.5" />
 
-:warning: Remember `reboot` before managing these Extensions
+:warning: Remember run `reboot` before managing these Extensions installed.
 
 ## 4.Manage *Extensions*
 
